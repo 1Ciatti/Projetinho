@@ -15,11 +15,11 @@ Preencha os arquivos na ordem indicada. Não apague os títulos nem as perguntas
 
 ## Identificação geral
 
-- Curso e disciplina: `[preencher]`
-- Professor ou orientador: `[preencher]`
-- Grupo: `[preencher]`
-- Integrantes: `[preencher]`
-- Data de início: `[dd/mm/aaaa]`
+- Curso e disciplina: `Ciencia da computação`
+- Professor ou orientador: `Isabella L`
+- Grupo: ``
+- Integrantes: `Gabriel Silva, Luiz Carlos, Luyde Amorim, Guilherme Ciatti`
+- Data de início: `22/09/2026`
 
 
 
