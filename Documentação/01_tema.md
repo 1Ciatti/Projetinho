@@ -18,7 +18,7 @@ Defina um tema específico, relevante e viável para o artigo de revisão biblio
 
 ### Tema delimitado
 
-`Análise e implementação de práticas de TI Verde para a redução do consumo energético e pegada de carbono em centros de dados (data centers) de médias empresas.`
+`Análise e aplicação de práticas de TI Verde para reduzir o consumo de energia e os custos operacionais em servidores de médias empresas.`
 
 ### Do tema amplo ao específico
 
