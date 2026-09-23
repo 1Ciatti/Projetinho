@@ -36,4 +36,7 @@ Pergunta de pesquisa aprovada.
 
 | Integrante | Atividade realizada |
 |---|---|
-| `[nome]` | `[preencher]` |
+| `Guilherme Ciatti` | `Pesquisa` |
+| `Gabriel Silva` | `Ideia` |
+| `Luyde Amorim` | `Pesquisa` |
+| `Luiz Carlos` | `Escreveu e ajudou a entender mais sobre o projeto` |
