@@ -6,15 +6,15 @@ Escreva a primeira versão completa do artigo seguindo a estrutura abaixo. 500 a
 
 # Título
 
-`\\\[Título claro e coerente com o tema]`
+`\\\EFICIÊNCIA ENERGÉTICA E REDUÇÃO DE CUSTOS EM MÉDIAS EMPRESAS: UMA ANÁLISE SOBRE A ADOÇÃO DE TI VERDE`
 
 ## Palavras-chave
 
-`\\\[palavra 1]; \\\[palavra 2]; \\\[palavra 3]`
+`\\\TI Verde; \\\Virtualização; \\\Eficiência Energética.`
 
 ## Introdução
 
-`\\\[Apresente contexto, foco, problema ou lacuna, justificativa e objetivo.]`
+`\\\A expansão constante da infraestrutura digital nas empresas aumentou significativamente a procura por eletricidade e os custos operacionais de TI. Este trabalho analisa como a adoção de práticas de TI Verde, com foco na virtualização de servidores e na otimização da refrigeração, ajuda a reduzir o consumo energético e os gastos em médias empresas. Realizou-se uma revisão integrativa da literatura em bases como IEEE, SciELO e Scopus, selecionando estudos publicados entre 2021 e 2026. Os resultados indicam que a consolidação de hardware via virtualização corta custos operacionais de forma direta e alivia os sistemas de climatização. Contudo, o custo inicial de migração e a falta de capacitação técnica das equipas ainda travam a sua aplicação massiva. Conclui-se que a TI Verde é viável e rentável para médias empresas, desde que haja um planeamento focado no retorno financeiro a médio prazo.`
 
 ## Metodologia
 
