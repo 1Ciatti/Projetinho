@@ -6,15 +6,15 @@ Compare os artigos e organize a revisão por temas ou eixos. Não produza apenas
 
 ## Eixos da revisão
 
-1. `\[Eixo ou subtema 1]`
-2. `\[Eixo ou subtema 2]`
-3. `\[Eixo ou subtema 3, se necessário]`
+1. `Eficiência Energética e Otimização de Infraestrutura (Virtualização e Arrefecimento)`
+2. `Impactos Econômicos e Relação Custo-Benefício em Médias Empresas`
+3. `Barreiras Operacionais, Culturais e Gargalos de Implementação`
 
 ## Matriz de síntese
 
 |Eixo|Artigos relacionados|Convergências|Divergências|Limitações|Lacunas|
 |-|-|-|-|-|-|
-|`\[preencher]`|`\[autores/anos]`|`\[preencher]`|`\[preencher]`|`\[preencher]`|`\[preencher]`|
+|`Eixo 1: Eficiência Energética e Otimização`|`Ormeño Ramos et al. (2026); Maciel (2025)`|`Ambos apontam a virtualização de servidores e o ajuste térmico como as estratégias mais diretas para cortar o consumo de energia e baixar o PUE.`|`Ormeño Ramos foca em métricas globais e algoritmos de controle térmico em data centers, enquanto Maciel analisa o impacto direto na infraestrutura corporativa nacional.`|`Trabalhos focam em métricas puramente técnicas sem detalhar o custo financeiro das ferramentas de gestão.`|`Pouco detalhamento sobre como a virtualização afeta sistemas legados que exigem alta disponibilidade constante.`|
 
 ## Roteiro da revisão da literatura
 
